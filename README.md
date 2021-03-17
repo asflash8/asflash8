@@ -1,6 +1,16 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=asflash8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=asflash8&column=8&theme=gruvbox"/>
+</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=asflash8&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asflash8&layout=compact" />
+</div>
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=asflash8&theme=gruvbox&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 **asflash8/asflash8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
